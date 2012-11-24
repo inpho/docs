@@ -1,8 +1,8 @@
-=== Project Ideas ===
+# Project Ideas
 This details projects that may be appropriate for someone new to the project or
 for further research questions.
 
-== Corpus size examination ==
+## Corpus size examination
 PhilPapers only has abstracts, SEP has articles, HathiTrust has books. We need
 an examination of the scalability of various NLP techniques.
 
